@@ -16,6 +16,6 @@ Requires .NET 4.
     <tags>Audio, Switcher, Source</tags>
     <copyright>Sean Chapman</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/luabuglight/master/appicon.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/audioswitcher/master/appicon.png</iconUrl>
   </metadata>
 </package>
